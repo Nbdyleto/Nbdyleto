@@ -1,4 +1,4 @@
-<img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nbdyleto&show_icons=true&theme=transparent)"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nbdyleto&show_icons=true&theme=transparent"/>
 
 ## 2022 jan.
 - Interested in be a badass programmer;
