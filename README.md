@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nbdyleto&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nbdyleto&show_icons=true&theme=transparent)
 
 ## 2022 jan.
 - interested in be a badass programmer;
