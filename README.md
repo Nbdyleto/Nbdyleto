@@ -1,5 +1,4 @@
 <img align="center" src="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
-<img align=
 
 ## 2022 Jan
 - Interested in be a badass programmer;
