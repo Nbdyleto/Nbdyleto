@@ -1,11 +1,11 @@
-## Marcha! 🇧🇷
+## Marcha em Busca da Excelência... 🇧🇷
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nbdyleto&show_icons=true&theme=transparent"/>
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<a href="">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=)
 
 ## 2022 Jan
 - Interested in be a badass programmer!
