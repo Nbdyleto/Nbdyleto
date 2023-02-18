@@ -6,9 +6,9 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=)
 
 ### 2022 Jan
-- Interested in be a badass programmer!
+- Interested in be a badass programmer
 ### 2022 Oct | Nov | Dec
-- Working on TCC "Self" App!
+- Working on TCC "Self" App
 
 <a href="https://github.com/Nbdyleto/PySide6_Self_TCC_2022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nbdyleto&repo=PySide6_Self_TCC_2022&show_owner=true"/>
