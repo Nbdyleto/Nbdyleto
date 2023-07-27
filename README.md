@@ -6,9 +6,6 @@
 
 _"Interested in be a badass programmer..."_ (2022 Jan)
 
-### Nobodyleto's Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nbdyleto&show_icons=true&theme=transparent&hide_title=true"/>
-
 ### 2023 May
 - Redo the entire TCC App (https://github.com/Nbdyleto/PySide6_Self_TCC_2022/issues/18)
 
