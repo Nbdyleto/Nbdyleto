@@ -7,4 +7,5 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 _"Interested in be a badass programmer..."_ (2022 Jan)
+
 _"Programming is my purpose and now I'm putting a effort in that"_ (2024 jan)
